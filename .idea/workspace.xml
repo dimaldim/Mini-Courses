@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="294ac9c1-9687-440f-be29-4dc4ba799a58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/HTML-and-CSS/L1_01_Navigation-Bar/Solution/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML-and-CSS/L1_01_Navigation-Bar/Solution/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML-and-CSS/L1_02_Page-Content/Solution/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML-and-CSS/L1_02_Page-Content/Solution/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML-and-CSS/L1_03_Simple-Website/Solution/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML-and-CSS/L1_03_Simple-Website/Solution/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HTML-and-CSS/L1_04_Exam Results/Solution/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML-and-CSS/L1_01_My-First-Page/Solution/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML-and-CSS/L1_02_Paragraphs/Solution/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HTML-and-CSS/L1_03_Description-List/Solution/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,35 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTML-and-CSS/L1_04_Exam Results/Requirements-and-Resources/Requirements.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTML-and-CSS/L1_04_Exam Results/Requirements-and-Resources/screenshot.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HTML-and-CSS/L1_04_Exam Results/Solution/index.html">
+        <entry file="file://$PROJECT_DIR$/HTML-and-CSS/L1_02_Paragraphs/Solution/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="573">
-              <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HTML-and-CSS/L1_04_Exam Results/Requirements-and-Resources/text.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" selection-end-column="10" />
+            <state relative-caret-position="544">
+              <caret line="32" column="53" selection-start-line="32" selection-start-column="53" selection-end-line="32" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -62,6 +34,12 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>declara</find>
+      <find>&lt;b&gt;</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -72,16 +50,20 @@
         <option value="$PROJECT_DIR$/HTML-and-CSS/L1_01_Navigation-Bar/Solution/style.css" />
         <option value="$PROJECT_DIR$/HTML-and-CSS/L1_02_Page-Content/Solution/index.html" />
         <option value="$PROJECT_DIR$/HTML-and-CSS/L1_02_Page-Content/Solution/style.css" />
-        <option value="$PROJECT_DIR$/HTML-and-CSS/L1_03_Simple-Website/Solution/index.html" />
         <option value="$PROJECT_DIR$/HTML-and-CSS/L1_03_Simple-Website/Solution/style.css" />
         <option value="$PROJECT_DIR$/HTML-and-CSS/L1_04_Exam Results/Solution/index.html" />
+        <option value="$PROJECT_DIR$/HTML-and-CSS/L1_04_Exam Results/Solution/style.css" />
+        <option value="$PROJECT_DIR$/HTML-and-CSS/L1_03_Simple-Website/Solution/index.html" />
+        <option value="$PROJECT_DIR$/HTML-and-CSS/L1_01_My-First-Page/Solution/index.html" />
+        <option value="$PROJECT_DIR$/HTML-and-CSS/L1_03_Description-List/Solution/index.html" />
+        <option value="$PROJECT_DIR$/HTML-and-CSS/L1_02_Paragraphs/Solution/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="697" />
-    <option name="height" value="735" />
+    <option name="x" value="833" />
+    <option name="width" value="854" />
+    <option name="height" value="1017" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -104,39 +86,14 @@
               <item name="Mini Courses" type="b2602c69:ProjectViewProjectNode" />
               <item name="Mini Courses" type="462c0819:PsiDirectoryNode" />
               <item name="HTML-and-CSS" type="462c0819:PsiDirectoryNode" />
-              <item name="L1_01_Navigation-Bar" type="462c0819:PsiDirectoryNode" />
+              <item name="L1_02_Paragraphs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Mini Courses" type="b2602c69:ProjectViewProjectNode" />
               <item name="Mini Courses" type="462c0819:PsiDirectoryNode" />
               <item name="HTML-and-CSS" type="462c0819:PsiDirectoryNode" />
-              <item name="L1_01_Navigation-Bar" type="462c0819:PsiDirectoryNode" />
+              <item name="L1_02_Paragraphs" type="462c0819:PsiDirectoryNode" />
               <item name="Solution" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Mini Courses" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Mini Courses" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML-and-CSS" type="462c0819:PsiDirectoryNode" />
-              <item name="L1_02_Page-Content" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Mini Courses" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Mini Courses" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML-and-CSS" type="462c0819:PsiDirectoryNode" />
-              <item name="L1_03_Simple-Website" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Mini Courses" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Mini Courses" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML-and-CSS" type="462c0819:PsiDirectoryNode" />
-              <item name="L1_04_Exam Results" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Mini Courses" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Mini Courses" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML-and-CSS" type="462c0819:PsiDirectoryNode" />
-              <item name="L1_04_Exam Results" type="462c0819:PsiDirectoryNode" />
-              <item name="Requirements-and-Resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -166,25 +123,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (3)">
-    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Mini Courses/HTML-and-CSS/L1_02_Page-Content/Solution/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Mini Courses/HTML-and-CSS/L1_03_Simple-Website/Solution/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Mini Courses/HTML-and-CSS/L1_04_Exam Results/Solution/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Mini Courses/HTML-and-CSS/L1_01_Navigation-Bar/Solution/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html (4)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Mini Courses/HTML-and-CSS/L1_01_My-First-Page/Solution/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (5)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Mini Courses/HTML-and-CSS/L1_02_Paragraphs/Solution/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Mini Courses/HTML-and-CSS/L1_03_Description-List/Solution/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.index.html (5)" />
+        <item itemvalue="JavaScript Debug.index.html (4)" />
         <item itemvalue="JavaScript Debug.index.html (3)" />
         <item itemvalue="JavaScript Debug.index.html (2)" />
-        <item itemvalue="JavaScript Debug.index.html (1)" />
-        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -198,12 +159,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547018578823</updated>
-      <workItem from="1547018580274" duration="2100000" />
+      <workItem from="1547018580274" duration="5282000" />
     </task>
+    <task id="LOCAL-00001" summary="Fixed to 100/100">
+      <created>1547021291316</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1547021291316</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2100000" />
+    <option name="totallyTimeSpent" value="5282000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -234,6 +203,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fixed to 100/100" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed to 100/100" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/HTML-and-CSS/L1_01_Navigation-Bar/Requirements-and-Resources/Requirements.md">
@@ -293,14 +266,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-and-CSS/L1_03_Simple-Website/Requirements-and-Resources/Requirements.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML-and-CSS/L1_03_Simple-Website/Requirements-and-Resources/text.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -308,22 +273,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-and-CSS/L1_03_Simple-Website/Solution/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-175">
-          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML-and-CSS/L1_03_Simple-Website/Requirements-and-Resources/screenshot.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-and-CSS/L1_03_Simple-Website/Solution/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HTML-and-CSS/L1_04_Exam Results/Requirements-and-Resources/Requirements.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -333,20 +284,124 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HTML-and-CSS/L1_04_Exam Results/Requirements-and-Resources/screenshot.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/HTML-and-CSS/L1_04_Exam Results/Requirements-and-Resources/text.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" selection-end-column="10" />
+        <state relative-caret-position="561">
+          <caret line="33" selection-start-line="33" selection-end-line="33" selection-end-column="38" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-and-CSS/L1_04_Exam Results/Requirements-and-Resources/screenshot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/HTML-and-CSS/L1_04_Exam Results/Solution/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="573">
-          <caret line="41" column="21" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
+        <state relative-caret-position="187">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-and-CSS/L1_04_Exam Results/Solution/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-and-CSS/L1_03_Simple-Website/Requirements-and-Resources/Requirements.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-and-CSS/L1_03_Simple-Website/Solution/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-and-CSS/L1_03_Simple-Website/Solution/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-and-CSS/L1_01_My-First-Page/Requirements-and-Resources/Requirements.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-and-CSS/L1_01_My-First-Page/Requirements-and-Resources/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-and-CSS/L1_01_My-First-Page/Requirements-and-Resources/screenshot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-and-CSS/L1_01_My-First-Page/Solution/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-and-CSS/L1_02_Paragraphs/Requirements-and-Resources/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="28" lean-forward="true" selection-start-line="1" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-and-CSS/L1_02_Paragraphs/Requirements-and-Resources/Requirements.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-and-CSS/L1_02_Paragraphs/Requirements-and-Resources/screenshot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-and-CSS/L1_03_Description-List/Requirements-and-Resources/Requirements.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-and-CSS/L1_03_Description-List/Requirements-and-Resources/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-and-CSS/L1_03_Description-List/Requirements-and-Resources/screenshot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-and-CSS/L1_03_Description-List/Solution/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-and-CSS/L1_02_Paragraphs/Solution/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="53" selection-start-line="32" selection-start-column="53" selection-end-line="32" selection-end-column="53" />
         </state>
       </provider>
     </entry>
