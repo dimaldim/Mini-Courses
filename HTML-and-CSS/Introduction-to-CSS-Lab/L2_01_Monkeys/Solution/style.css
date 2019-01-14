@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body {
+    margin: 0;
+    padding: 0;
+    background: #FAEBC8;
+    font-family: 'Open Sans', sans-serif;
+}
+
+main section {
+    background-color: white;
+    border-radius: 20px;
+    width: 1000px;
+    height: auto;
+    text-align: center;
+    margin: 40px auto;
+    box-shadow: 0px 0px 30px 4px rgba(150, 90, 80, 1);
+}
+
+main section article {
+    display: inline-block;
+    width: 22%;
+    vertical-align: top;
+    padding: 40px 20px;
+    height: 100%;
+}
+
+main section article p, h4 {
+    text-align: left;
+}
+
+main section article p {
+    height: 200px;
+}
+
+main section article h4 {
+    padding-top: 20px;
+    text-shadow: 20px 20px 1px rgba(180, 180, 180, 1);
+    color: #965A50;
+    font-style: italic;
+}
+
+main section article img {
+    width: 40%;
+}

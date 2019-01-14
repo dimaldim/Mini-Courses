@@ -1,0 +1,17 @@
+body {
+    background: rgb(238, 238, 238);
+}
+header p {
+    font-size: 24px;
+    font-weight: bold;
+}
+ul li a {
+color: green;
+}
+aside {
+float: right;
+}
+article {
+    border: 1px solid red;
+    width: 80%;
+}
